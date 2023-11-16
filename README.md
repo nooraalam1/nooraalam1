@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **REACT JS**
 
 - 📫 How to reach me **nooraaalam2000@gmail.com**
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
