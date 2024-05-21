@@ -7,9 +7,9 @@
 
 <p align="center" m> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nooraalam1" alt="nooraalam1" /></a> </p> </br>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **REACT JS** & **REACT Native** 
 
-- 📫 How to reach me **nooraaalam2000@gmail.com**
+- 📫 Reach me **nooraaalam2000@gmail.com**
 
 </br> </br>
 <h1><p align="center"> <img src="https://komarev.com/ghpvc/?username=nooraalam1&label=Profile%20views&color=0e75b6&style=flat" alt="nooraalam1" /> </p></h1>
