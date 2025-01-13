@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Full Stack Web**
 
 - 📫 How to reach me **nooraaalam2000@gmail.com**
 
