@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
   
-# Noor A Alam!
+# Noor A Alam
 ### A Passionate Multi-Stack Developer from Bangladesh 🇧🇩
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=nooraalam1&label=Profile%20views&color=0e75b6&style=flat)
