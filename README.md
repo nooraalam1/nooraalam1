@@ -17,7 +17,7 @@ I'm a **Multi Stack Developer** from **Bangladesh**, passionate about building s
 I thrive on turning complex problems into elegant solutions with clean code and creative designs.  
 When not coding, I'm exploring new tech, sipping tea, or sketching UI prototypes.
 
-- 🔭 **Currently working on**: Scalable **MERN Stack** applications  
+- 🔭 **Currently working on:  **MERN Stack** & **Laravel** applications  
 - 🌱 **Currently learning**: Advanced **Next.js**, **TypeScript**, and **GraphQL**  
 - 📫 **Reach me at**: [nooraaalam2000@gmail.com](mailto:nooraaalam2000@gmail.com)  
 - ⚡ **Hobby**: Designing pixel-perfect **UI/UX** and diving into **open-source**
