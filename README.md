@@ -23,7 +23,7 @@
 ## 🦾 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,express,html,css,tailwind,mysql,git,github,vscode,sublime,figma,linux,java,go,php,laravel,netlify,vercel,androidstudio,bash,shell,bootstrap,firebase,npm,android,ios,&perline=12" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,express,html,css,tailwind,mysql,git,github,vscode,sublime,figma,linux,java,go,php,laravel,netlify,vercel,androidstudio,bash,powershell,replit,stackoverflow,ubuntu,vite,bootstrap,firebase,npm,android,ios,arduino,discord,gmail,instagram,linkedin,notion,&perline=12" />
 </p>
 
 ---
